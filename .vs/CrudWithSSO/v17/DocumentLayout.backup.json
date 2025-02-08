@@ -1,0 +1,646 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{550CEC69-2B0E-4B7E-9137-5F46DCFB0A8C}|API\\API.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550CEC69-2B0E-4B7E-9137-5F46DCFB0A8C}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\applicationservices\\applicationservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\applicationservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550CEC69-2B0E-4B7E-9137-5F46DCFB0A8C}|API\\API.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{550CEC69-2B0E-4B7E-9137-5F46DCFB0A8C}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UserProfile||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550CEC69-2B0E-4B7E-9137-5F46DCFB0A8C}|API\\API.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{550CEC69-2B0E-4B7E-9137-5F46DCFB0A8C}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550CEC69-2B0E-4B7E-9137-5F46DCFB0A8C}|API\\API.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\api\\crudwithsso.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{550CEC69-2B0E-4B7E-9137-5F46DCFB0A8C}|API\\API.csproj|solutionrelative:api\\crudwithsso.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543FB0ED-8A42-4F6F-9EC9-3BF8BC9FAAD9}|Infrastructure\\Infrastructure.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\infrastructure\\infrastructurebuilder\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543FB0ED-8A42-4F6F-9EC9-3BF8BC9FAAD9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructurebuilder\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\core\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|solutionrelative:core\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\core\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|solutionrelative:core\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\core\\contracts\\iaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|solutionrelative:core\\contracts\\iaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\applicationservices\\services\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\services\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\applicationservices\\services\\iuserprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\services\\iuserprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\applicationservices\\applicationservicesbuilder\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\applicationservicesbuilder\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\applicationservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543FB0ED-8A42-4F6F-9EC9-3BF8BC9FAAD9}|Infrastructure\\Infrastructure.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{543FB0ED-8A42-4F6F-9EC9-3BF8BC9FAAD9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550CEC69-2B0E-4B7E-9137-5F46DCFB0A8C}|API\\API.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\api\\presentationbuilder\\dependencyinjectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550CEC69-2B0E-4B7E-9137-5F46DCFB0A8C}|API\\API.csproj|solutionrelative:api\\presentationbuilder\\dependencyinjectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550CEC69-2B0E-4B7E-9137-5F46DCFB0A8C}|API\\API.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550CEC69-2B0E-4B7E-9137-5F46DCFB0A8C}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550CEC69-2B0E-4B7E-9137-5F46DCFB0A8C}|API\\API.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550CEC69-2B0E-4B7E-9137-5F46DCFB0A8C}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543FB0ED-8A42-4F6F-9EC9-3BF8BC9FAAD9}|Infrastructure\\Infrastructure.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\infrastructure\\context\\profilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543FB0ED-8A42-4F6F-9EC9-3BF8BC9FAAD9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\profilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\core\\dominmodels\\useraggregate\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|solutionrelative:core\\dominmodels\\useraggregate\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\core\\dominmodels\\useraggregate\\iuserprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|solutionrelative:core\\dominmodels\\useraggregate\\iuserprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\core\\dominmodels\\useraggregate\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|solutionrelative:core\\dominmodels\\useraggregate\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543FB0ED-8A42-4F6F-9EC9-3BF8BC9FAAD9}|Infrastructure\\Infrastructure.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543FB0ED-8A42-4F6F-9EC9-3BF8BC9FAAD9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543FB0ED-8A42-4F6F-9EC9-3BF8BC9FAAD9}|Infrastructure\\Infrastructure.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\infrastructure\\repositories\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543FB0ED-8A42-4F6F-9EC9-3BF8BC9FAAD9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543FB0ED-8A42-4F6F-9EC9-3BF8BC9FAAD9}|Infrastructure\\Infrastructure.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543FB0ED-8A42-4F6F-9EC9-3BF8BC9FAAD9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543FB0ED-8A42-4F6F-9EC9-3BF8BC9FAAD9}|Infrastructure\\Infrastructure.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543FB0ED-8A42-4F6F-9EC9-3BF8BC9FAAD9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\core\\base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|solutionrelative:core\\base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\applicationservices\\services\\dto\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\services\\dto\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\applicationservices\\mapper\\profilemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\mapper\\profilemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\CrudWithSSO\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudWithSSO\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|solutionrelative:core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{736FA478-D265-4329-B017-E9E71655FBC7}|Core\\Core.csproj|solutionrelative:core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|c:\\users\\david.ezzat\\source\\repos\\crudwithsso\\applicationservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BADCB5DF-20CC-43C9-8D38-FC8CB5EAC899}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\CrudWithSSO\\CrudWithSSO.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudWithSSO\\CrudWithSSO.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\CrudWithSSO\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudWithSSO\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\CrudWithSSO\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudWithSSO\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\CrudWithSSO\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudWithSSO\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32383C1D-97AD-4B74-AB52-9F6D10459732}|UserProfile\\UserProfile.sqlproj|C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\UserProfile\\UserProfile.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|0032459b-05d4-453a-8918-372d533c7e42",
+      "RelativeMoniker": "D:0:0:{32383C1D-97AD-4B74-AB52-9F6D10459732}|UserProfile\\UserProfile.sqlproj|solutionrelative:UserProfile\\UserProfile.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|0032459b-05d4-453a-8918-372d533c7e42"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Infrastructure\\InfrastructureBuilder\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\InfrastructureBuilder\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Infrastructure\\InfrastructureBuilder\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\InfrastructureBuilder\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:00:55.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:47:31.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T19:41:48.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T13:28:27.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrudWithSSO.http",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\API\\CrudWithSSO.http",
+              "RelativeDocumentMoniker": "API\\CrudWithSSO.http",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\API\\CrudWithSSO.http",
+              "RelativeToolTip": "API\\CrudWithSSO.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-08T15:35:40.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserProfile",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\UserProfile\\UserProfile.sqlproj",
+              "RelativeDocumentMoniker": "UserProfile\\UserProfile.sqlproj",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\UserProfile\\UserProfile.sqlproj",
+              "RelativeToolTip": "UserProfile\\UserProfile.sqlproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-07T20:49:24.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationServices.csproj",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\ApplicationServices.csproj",
+              "RelativeDocumentMoniker": "ApplicationServices\\ApplicationServices.csproj",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\ApplicationServices.csproj",
+              "RelativeToolTip": "ApplicationServices\\ApplicationServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T17:45:50.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\Contracts\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core\\Contracts\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\Contracts\\IUnitOfWork.cs",
+              "RelativeToolTip": "Core\\Contracts\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:59:28.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\Contracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Contracts\\IRepository.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\Contracts\\IRepository.cs",
+              "RelativeToolTip": "Core\\Contracts\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:31:46.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\Contracts\\IAggregate.cs",
+              "RelativeDocumentMoniker": "Core\\Contracts\\IAggregate.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\Contracts\\IAggregate.cs",
+              "RelativeToolTip": "Core\\Contracts\\IAggregate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:59:13.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\Services\\UserProfileService.cs",
+              "RelativeDocumentMoniker": "ApplicationServices\\Services\\UserProfileService.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\Services\\UserProfileService.cs",
+              "RelativeToolTip": "ApplicationServices\\Services\\UserProfileService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAMwEsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:46:50.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\Services\\IUserProfileService.cs",
+              "RelativeDocumentMoniker": "ApplicationServices\\Services\\IUserProfileService.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\Services\\IUserProfileService.cs",
+              "RelativeToolTip": "ApplicationServices\\Services\\IUserProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:43:54.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\ApplicationServicesBuilder\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ApplicationServices\\ApplicationServicesBuilder\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\ApplicationServicesBuilder\\DependencyInjection.cs",
+              "RelativeToolTip": "ApplicationServices\\ApplicationServicesBuilder\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:58:10.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProfileContext.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Infrastructure\\Context\\ProfileContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\ProfileContext.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Infrastructure\\Context\\ProfileContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\ProfileContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:49:54.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:28:18.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjectionClass.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\API\\PresentationBuilder\\DependencyInjectionClass.cs",
+              "RelativeDocumentMoniker": "API\\PresentationBuilder\\DependencyInjectionClass.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\API\\PresentationBuilder\\DependencyInjectionClass.cs",
+              "RelativeToolTip": "API\\PresentationBuilder\\DependencyInjectionClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:44:32.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\Program.cs",
+              "RelativeDocumentMoniker": "ApplicationServices\\Program.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\Program.cs",
+              "RelativeToolTip": "ApplicationServices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:04:57.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T16:50:37.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:28:21.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\DominModels\\UserAggregate\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Core\\DominModels\\UserAggregate\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\DominModels\\UserAggregate\\UserProfile.cs",
+              "RelativeToolTip": "Core\\DominModels\\UserAggregate\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:38:32.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\DominModels\\UserAggregate\\IUserProfileRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DominModels\\UserAggregate\\IUserProfileRepository.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\DominModels\\UserAggregate\\IUserProfileRepository.cs",
+              "RelativeToolTip": "Core\\DominModels\\UserAggregate\\IUserProfileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:46:44.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\DominModels\\UserAggregate\\Gender.cs",
+              "RelativeDocumentMoniker": "Core\\DominModels\\UserAggregate\\Gender.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\DominModels\\UserAggregate\\Gender.cs",
+              "RelativeToolTip": "Core\\DominModels\\UserAggregate\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:41:04.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Infrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Program.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Infrastructure\\Program.cs",
+              "RelativeToolTip": "Infrastructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T15:35:57.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Infrastructure\\Repositories\\UserProfileRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserProfileRepository.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Infrastructure\\Repositories\\UserProfileRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserProfileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:22:38.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:21:04.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:23:02.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\Services\\DTO\\ProfileDTO.cs",
+              "RelativeDocumentMoniker": "ApplicationServices\\Services\\DTO\\ProfileDTO.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\Services\\DTO\\ProfileDTO.cs",
+              "RelativeToolTip": "ApplicationServices\\Services\\DTO\\ProfileDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:52:16.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\Base\\Entity.cs",
+              "RelativeDocumentMoniker": "Core\\Base\\Entity.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\Base\\Entity.cs",
+              "RelativeToolTip": "Core\\Base\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:34:57.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T16:34:51.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProfileMapper.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\Mapper\\ProfileMapper.cs",
+              "RelativeDocumentMoniker": "ApplicationServices\\Mapper\\ProfileMapper.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\Mapper\\ProfileMapper.cs",
+              "RelativeToolTip": "ApplicationServices\\Mapper\\ProfileMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:55:41.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\CrudWithSSO\\Program.cs",
+              "RelativeDocumentMoniker": "CrudWithSSO\\Program.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\CrudWithSSO\\Program.cs",
+              "RelativeToolTip": "CrudWithSSO\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:05:38.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\Program.cs",
+              "RelativeDocumentMoniker": "Core\\Program.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\Program.cs",
+              "RelativeToolTip": "Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:47:10.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\appsettings.json",
+              "RelativeDocumentMoniker": "Core\\appsettings.json",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\Core\\appsettings.json",
+              "RelativeToolTip": "Core\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T19:34:30.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CrudWithSSO.http",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\CrudWithSSO\\CrudWithSSO.http",
+              "RelativeDocumentMoniker": "CrudWithSSO\\CrudWithSSO.http",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\CrudWithSSO\\CrudWithSSO.http",
+              "RelativeToolTip": "CrudWithSSO\\CrudWithSSO.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-07T21:40:06.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\CrudWithSSO\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CrudWithSSO\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\CrudWithSSO\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CrudWithSSO\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:28:41.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\CrudWithSSO\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CrudWithSSO\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\CrudWithSSO\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CrudWithSSO\\Controllers\\UserController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:49:07.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\CrudWithSSO\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudWithSSO\\appsettings.json",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\CrudWithSSO\\appsettings.json",
+              "RelativeToolTip": "CrudWithSSO\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T19:05:37.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\appsettings.json",
+              "RelativeDocumentMoniker": "ApplicationServices\\appsettings.json",
+              "ToolTip": "C:\\Users\\david.ezzat\\source\\repos\\CrudWithSSO\\ApplicationServices\\appsettings.json",
+              "RelativeToolTip": "ApplicationServices\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T20:43:58.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

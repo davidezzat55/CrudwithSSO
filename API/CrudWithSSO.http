@@ -1,0 +1,6 @@
+@CrudWithSSO_HostAddress = http://localhost:5097
+
+GET {{CrudWithSSO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

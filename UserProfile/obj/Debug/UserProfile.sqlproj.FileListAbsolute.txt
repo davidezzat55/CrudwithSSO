@@ -1,0 +1,10 @@
+C:\Users\david.ezzat\source\repos\CrudWithSSO\UserProfile\bin\Debug\UserProfile.dacpac
+C:\Users\david.ezzat\source\repos\CrudWithSSO\UserProfile\bin\Debug\UserProfile.dll
+C:\Users\david.ezzat\source\repos\CrudWithSSO\UserProfile\bin\Debug\UserProfile.pdb
+C:\Users\david.ezzat\source\repos\CrudWithSSO\UserProfile\obj\Debug\UserProfile.sqlproj.AssemblyReference.cache
+C:\Users\david.ezzat\source\repos\CrudWithSSO\UserProfile\obj\Debug\UserProfile.dll
+C:\Users\david.ezzat\source\repos\CrudWithSSO\UserProfile\obj\Debug\UserProfile.pdb
+C:\Users\david.ezzat\source\repos\CrudWithSSO\UserProfile\obj\Debug\Model.xml
+C:\Users\david.ezzat\source\repos\CrudWithSSO\UserProfile\obj\Debug\refactor.xml
+C:\Users\david.ezzat\source\repos\CrudWithSSO\UserProfile\obj\Debug\postdeploy.sql
+C:\Users\david.ezzat\source\repos\CrudWithSSO\UserProfile\obj\Debug\predeploy.sql
